@@ -1,3 +1,28 @@
+- [JS base cheat](#js-base-cheat)
+- [1) Explain Hoisting](#1-explain-hoisting)
+- [2) Explain the Event Loop](#2-explain-the-event-loop)
+- [3) Explain Event Bubbling](#3-explain-event-bubbling)
+- [4) Explain prototype](#4-explain-prototype)
+- [5) What is a pure function](#5-what-is-a-pure-function)
+- [6) How do you get the type of an object](#6-how-do-you-get-the-type-of-an-object)
+- [7) When do you use: var, let or const?](#7-when-do-you-use-var-let-or-const)
+- [8) How many execution threads can be ran or a usually ran in Javascript?](#8-how-many-execution-threads-can-be-ran-or-a-usually-ran-in-javascript)
+- [9) Can you explain closures and provide an example?](#9-can-you-explain-closures-and-provide-an-example)
+- [10) Explain the Module pattern](#10-explain-the-module-pattern)
+- [11) Can you explain how `this` keyword works in JavaScript?](#11-can-you-explain-how-this-keyword-works-in-javascript)
+- [12) What's the difference between `==` and `===`?](#12-whats-the-difference-between--and-)
+- [13) Can you explain the difference between `null` and `undefined`?](#13-can-you-explain-the-difference-between-null-and-undefined)
+- [14) What is a Promise? How would you handle multiple asynchronous operations with Promises?](#14-what-is-a-promise-how-would-you-handle-multiple-asynchronous-operations-with-promises)
+- [15) Can you explain how async/await works? And what is the difference with Promise?](#15-can-you-explain-how-asyncawait-works-and-what-is-the-difference-with-promise)
+- [16) What are callbacks and what issues might arise when using them?](#16-what-are-callbacks-and-what-issues-might-arise-when-using-them)
+- [17) What are higher-order functions?](#17-what-are-higher-order-functions)
+- [18) What are classes in JavaScript and how do they work?](#18-what-are-classes-in-javascript-and-how-do-they-work)
+- [19) How would you improve the performance of a JavaScript web application?](#19-how-would-you-improve-the-performance-of-a-javascript-web-application)
+- [20) Can you discuss ways to profile and debug JavaScript code?](#20-can-you-discuss-ways-to-profile-and-debug-javascript-code)
+- [21) What new features were introduced in ES6 (ES2015) and later versions that you find particularly useful?](#21-what-new-features-were-introduced-in-es6-es2015-and-later-versions-that-you-find-particularly-useful)
+- [22) Can you explain destructuring and how you would use it?](#22-can-you-explain-destructuring-and-how-you-would-use-it)
+- [ES6](#es6)
+
 # JS base cheat
 
 # 1) Explain Hoisting
