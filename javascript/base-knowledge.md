@@ -1,9 +1,7 @@
-# JS base cheat
+# JS base cheat<!-- omit in toc -->
 
-## Table of Contents
+## Table of Contents<!-- omit in toc -->
 
-- [JS base cheat](#js-base-cheat)
-  - [Table of Contents](#table-of-contents)
 - [1) Explain Hoisting](#1-explain-hoisting)
 - [2) Explain the Event Loop](#2-explain-the-event-loop)
 - [3) Explain Event Bubbling](#3-explain-event-bubbling)
