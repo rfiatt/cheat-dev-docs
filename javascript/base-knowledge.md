@@ -1,4 +1,9 @@
+# JS base cheat
+
+## Table of Contents
+
 - [JS base cheat](#js-base-cheat)
+  - [Table of Contents](#table-of-contents)
 - [1) Explain Hoisting](#1-explain-hoisting)
 - [2) Explain the Event Loop](#2-explain-the-event-loop)
 - [3) Explain Event Bubbling](#3-explain-event-bubbling)
@@ -22,8 +27,6 @@
 - [21) What new features were introduced in ES6 (ES2015) and later versions that you find particularly useful?](#21-what-new-features-were-introduced-in-es6-es2015-and-later-versions-that-you-find-particularly-useful)
 - [22) Can you explain destructuring and how you would use it?](#22-can-you-explain-destructuring-and-how-you-would-use-it)
 - [ES6](#es6)
-
-# JS base cheat
 
 # 1) Explain Hoisting
 
